@@ -12,10 +12,16 @@
 
 .headerImage {
   width: 6rem;
-  height: 8rem;
+  height: 6rem;
+  display: block;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
 }
 
 .headerHomeImage {
   width: 6rem;
-  height: 8rem;
+  height: 6rem;
+  display: block;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
 }
